@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# TypeScript
+dist/
+
+# dotenv environment variables
+.env
+
+# IDEs and Editors
+.vscode/
